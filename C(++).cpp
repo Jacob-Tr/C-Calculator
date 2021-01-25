@@ -339,7 +339,7 @@ void CPPFunction()
 int main() 
 {
     char* string = "(1+(-2.3)^4)+5";
-    char* stringwobr = "5+5*5";
+    char* stringwobr = "5+5*5"; // String without brackets
     char answer[32];
     //CPPFunction();
     int end;
